@@ -10,7 +10,3 @@ library(testthat)
 library(centdog)
 
 test_check("centdog")
-<<<<<<< HEAD
-=======
-
->>>>>>> 7f1a17444abf7b126f4dce40b61e4713fe9c471c
