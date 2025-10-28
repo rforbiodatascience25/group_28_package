@@ -1,0 +1,36 @@
+Package: centdog
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Bolette", "Arildsen",
+      email = "s175357@dtu.dk",
+      role = c("aut")
+    ),
+      person(
+      "Lena", "Nielsen",
+      email = "s184343@dtu.dk",
+      role = c("aut","cre")
+    ),
+      person(
+      "Emma", "Wernersson",
+      email = "s215008@dtu.dk",
+      role = c("aut")
+    ),
+      person(
+      "Caroline", "Lundsteen",
+      email = "s224373@dtu.dk",
+      role = c("aut")
+    ),
+      person(
+      "Frederik", "Allingham de Cordier",
+      email = "s211930@dtu.dk",
+      role = c("aut")
+    )
+  )
+Description: More about what it does (maybe more than one line).
+    Continuation lines should be indented.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
