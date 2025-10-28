@@ -5,6 +5,8 @@
 #' @returns a bar plot of frequencies of bases
 #' @export
 #'
+#'@import ggplot2, stringr
+#'
 #' @examples plot_base_counts("AUGGCUUAA")
 plot_base_counts <- function(sequence) {
   # Split sequence into individual characters to get unique characters
