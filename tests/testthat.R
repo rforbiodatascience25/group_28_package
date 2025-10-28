@@ -10,4 +10,3 @@ library(testthat)
 library(centdog)
 
 test_check("centdog")
-
