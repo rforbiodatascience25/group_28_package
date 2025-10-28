@@ -31,7 +31,7 @@ Authors@R: c(
   )
 Description: More about what it does (maybe more than one line).
     Continuation lines should be indented.
-License: What license is it under?
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Depends: 
@@ -40,3 +40,9 @@ RoxygenNote: 7.3.2
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+<<<<<<< HEAD
+=======
+Imports: 
+    ggplot2
+    stringr
+>>>>>>> c7d79d67a50b931b38995e7d02e47c7edd59f510
