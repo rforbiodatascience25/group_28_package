@@ -4,7 +4,7 @@ export(DNA_creator)
 export(codon_sub)
 export(extract_codons)
 export(plot_base_counts)
-import("ggplot2,")
+import(ggplot2)
 import(stringr)
 export(RNA_to_aa_trans)
 
